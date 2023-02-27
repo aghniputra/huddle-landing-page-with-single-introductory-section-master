@@ -209,6 +209,8 @@ h1 {
     .right-top__header {
     margin-bottom: 2rem;
     overflow-wrap: break-word;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
     h1 {
