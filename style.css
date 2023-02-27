@@ -215,15 +215,15 @@ h1 {
         font-size: 2.5rem;
         line-height: 3.25rem;
         text-align: center;
-        max-width: 33rem;
+        max-width: 37rem;
     }
 
     .right-top__body {
         font-family: 'Open Sans', sans-serif;
         font-size:1.5rem;
         line-height: 2.4rem;
-        max-width: 33rem;
-        margin-top: 2.75rem;
+        max-width: 37rem;
+        /* margin-top: 2.75rem; */
         margin-bottom: 1.75rem;
         overflow-wrap: break-word;
         text-align: center;
